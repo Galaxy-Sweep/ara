@@ -8,11 +8,6 @@
 
 ----
 
-Go to **red** for Geometry Dash server</br>
-Go to **green** for YSGD server
-
-----
-
 ### Setup
 1) Upload the files on a server
 2) Import db.sql into a MySQL/MariaDB database

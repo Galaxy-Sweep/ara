@@ -8,5 +8,5 @@
 
 ----
 
-Go to **red** for Geometry Dash server
+Go to **red** for Geometry Dash server</br>
 Go to **green** for YSGD server
